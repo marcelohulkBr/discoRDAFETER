@@ -1,0 +1,29 @@
+{
+    "token": "MTEyNTIwNjA1MzAwMTM2NzU2Mw.GxPRfk.uZxJJYqep5t7v44-gCGkOd9VzxY9zaApGro1nY",
+    "prefix": ".",
+    "webhook": "black",
+    "mysql": {
+        "host": "127.0.0.1",
+        "user": "root",
+        "password": "",
+        "database": "leinad_bot"
+    },
+    "gerador_channel_stock": "1207835679959023728",
+    "gerador": [
+        {
+            "name": "free",
+            "cargo": "1207833520777461790",
+            "channel": "1125237720449560648"
+        },
+        {
+            "name": "boost",
+            "cargo": "1207833531372544101",
+            "channel": "1125427161696845854"
+        },
+        {
+            "name": "pago",
+            "cargo": "1207833651597938708",
+            "channel": "1207481963259236442"
+        }
+    ]
+}
